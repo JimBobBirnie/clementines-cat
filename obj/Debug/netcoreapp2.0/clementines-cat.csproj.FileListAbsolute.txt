@@ -1,0 +1,11 @@
+/Users/jamesbirnie/code/Quantum/Samples/clementines-cat/bin/Debug/netcoreapp2.0/clementines-cat.deps.json
+/Users/jamesbirnie/code/Quantum/Samples/clementines-cat/bin/Debug/netcoreapp2.0/clementines-cat.runtimeconfig.json
+/Users/jamesbirnie/code/Quantum/Samples/clementines-cat/bin/Debug/netcoreapp2.0/clementines-cat.runtimeconfig.dev.json
+/Users/jamesbirnie/code/Quantum/Samples/clementines-cat/bin/Debug/netcoreapp2.0/clementines-cat.dll
+/Users/jamesbirnie/code/Quantum/Samples/clementines-cat/bin/Debug/netcoreapp2.0/clementines-cat.pdb
+/Users/jamesbirnie/code/Quantum/Samples/clementines-cat/obj/Debug/netcoreapp2.0/clementines-cat.csproj.CoreCompileInputs.cache
+/Users/jamesbirnie/code/Quantum/Samples/clementines-cat/obj/Debug/netcoreapp2.0/clementines-cat.AssemblyInfoInputs.cache
+/Users/jamesbirnie/code/Quantum/Samples/clementines-cat/obj/Debug/netcoreapp2.0/clementines-cat.AssemblyInfo.cs
+/Users/jamesbirnie/code/Quantum/Samples/clementines-cat/obj/Debug/netcoreapp2.0/clementines-cat.dll
+/Users/jamesbirnie/code/Quantum/Samples/clementines-cat/obj/Debug/netcoreapp2.0/clementines-cat.pdb
+/Users/jamesbirnie/code/Quantum/Samples/clementines-cat/obj/Debug/netcoreapp2.0/clementines-cat.csprojResolveAssemblyReference.cache
