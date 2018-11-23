@@ -18,6 +18,12 @@ namespace ClementinesCat
 
             var massExperimentResults = CatMoodExperiment.Run(sim, measurements).Result;
             var (happyCats, sadCats) = massExperimentResults;
+            //there are 4 possible outcomes with the following probabilities (binomial theorem)
+            //0 people fed the cat 1/15 (sad)
+            //1 person fed the cat 4/15 (sad)
+            //2 people fed the cat 6/15 (happy)
+            //3 people fed the cat 4/15 (happy)
+            //4 people fed the cat 1/15 (happy)
             System.Console.WriteLine("happy cats {0}", happyCats);
             System.Console.WriteLine("sad cats {0}", sadCats);
 
